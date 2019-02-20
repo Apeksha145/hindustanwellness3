@@ -429,6 +429,8 @@ p{color:#434242;}
     }
 	.r2 .r2text span{color:#f47a21;font-size:35px !important;font-weight:900;}
 	.r2 .r2text .r2lbl{font-size:10px !important;color:#000;font-weight:lighter;}
+	.mediastyl {
+    padding: 20px 0 10px;}
 }
 .bg-orng{background-color:#cd2319;}
 .text-yellow{color:#fff1a9;}
@@ -443,6 +445,8 @@ p{color:#434242;}
 	.midimgtext p {
     color: #000 !important;
     font-size: 13px !important;}
+	.mediastyl {
+    padding: 20px 0 10px;}
 }
 @media(max-device-width:767px){
 .boxshd {
@@ -612,6 +616,7 @@ p{color:#434242;}
 }
 .midtext, h3{font-size:30px;}
 .r2{padding:10px 22px 10px;}
+.mediastyl{padding:40px 0 20px;}
 }
 @media only screen and (min-device-width:1421px) and (max-width:2560px){
 	.swth {padding-top:100px;}
@@ -650,6 +655,7 @@ p{color:#434242;}
 	.swth, h4 {font-size:30px;}
 	.midtext, h3{font-size:30px;}
 	.r2{padding:10px 22px 10px;}
+	.mediastyl{padding:40px 0 20px;}
 }
 @media only screen and (min-device-width:611px) and (max-width:665px)
 {
@@ -739,7 +745,6 @@ p{color:#434242;}
 
 .midtext p{color: #495057;font-size:16px;}
 .midimgtext p{color: #000;font-size: 15px;padding-top:7px;}
-.mediastyl{padding:40px 0 20px;}
 .styl {
     /*padding: 50px 0;*/
     text-align: center;
@@ -802,6 +807,8 @@ p{color:#434242;}
 	.frmtext{letter-spacing:1px;font-size:12px;text-align: center;}
 	.frm3 h5{text-align: center;}
 	.middlestrip{ padding:50px 0 50px;}.frm3 h5{font-size:22px;}
+	.mediastyl {
+    padding: 20px 0 10px;}
 	.midtext h3{font-size: 25px;}
 }
 @media only screen and (min-device-width:992px) and (max-device-width:1149px)
